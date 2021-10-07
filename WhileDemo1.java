@@ -17,3 +17,5 @@ public class WhileDemo1 {
 	}
 
 }
+
+//Output: 2 6 12 20 30 
